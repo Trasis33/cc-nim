@@ -2,6 +2,8 @@
 
 Use **Claude Code CLI for free** with NVIDIA NIM's free unlimited 40 reqs/min API. This lightweight proxy converts Claude Code's Anthropic API requests to NVIDIA NIM format. **Includes Telegram bot integration** for remote control from your phone!
 
+> 🔒 **Security:** This repository has undergone a comprehensive security audit. See [SECURITY_AUDIT.md](SECURITY_AUDIT.md) for the full report. **No malicious code detected.**
+
 ## Quick Start
 
 ### 1. Get Your Free NVIDIA API Key
